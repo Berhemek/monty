@@ -11,5 +11,4 @@ monty is an interpreter of Monty ByteCodes files, which is a scripting language 
 gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 
 ## Authors
-**Berhe Mekonen**
-**Shewit Gebreyesus**
+**Berhe Mekonen** & **Shewit Gebreyesus**
